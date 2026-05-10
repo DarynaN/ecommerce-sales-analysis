@@ -74,6 +74,6 @@ The main growth lever is **monetization, not traffic**:
 
 | File | Description |
 |------|-------------|
-| `notebooks/ecommerce_analysis.ipynb` | Full analysis notebook |
-| `sql/base_dataset.sql` | BigQuery data extraction query |
-| `assets/dashboard_screenshot.png` | Tableau dashboard preview |
+| `ecommerce_analysis.ipynb` | Full analysis notebook |
+| `base_dataset.sql` | BigQuery data extraction query |
+| `dashboard_screenshot.png` | Tableau dashboard preview |
